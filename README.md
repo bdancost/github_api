@@ -26,12 +26,13 @@ A aplicação permite realizar buscas de usuários na plataforma GitHub, utiliza
 - **Exibição de informações**: Exibe a foto do perfil, nome, biografia e uma lista dos repositórios públicos.
 - **Mensagens de erro**: Mostra uma mensagem amigável quando o usuário não é encontrado.
 
-## Tecnologias Utilizadas
+## 🚀🚀 Tecnologias Utilizadas
 
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20" height="20" alt="HTML5 Icon"> **HTML5**: Estrutura básica da aplicação.
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20" height="20" alt="CSS3 Icon"> **CSS3**: Estilização e layout responsivo.
 - <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="20" height="20" alt="JavaScript Icon"> **JavaScript (ES6+)**: Manipulação do DOM, chamadas à API e lógica de renderização.
-- <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20" alt="GitHub Icon"> **API do GitHub**: Integração para obtenção de dados dos usuários.
+- <img src="https://cdn-icons-png.flaticon.com/512/2913/2913970.png" width="20" height="20" alt="API Icon"> **API do GitHub**: Integração para obtenção de dados dos usuários.
+
 
 
 ## Instalação e Uso
