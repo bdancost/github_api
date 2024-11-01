@@ -11,7 +11,6 @@ Este projeto é uma aplicação web que permite buscar informações de usuário
 - [Instalação e Uso](#instalação-e-uso)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Visão Geral
 
