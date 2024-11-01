@@ -32,7 +32,7 @@ A aplicação permite realizar buscas de usuários na plataforma GitHub, utiliza
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20" height="20" alt="HTML5 Icon"> **HTML5**: Estrutura básica da aplicação.
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20" height="20" alt="CSS3 Icon"> **CSS3**: Estilização e layout responsivo.
 - <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="20" height="20" alt="JavaScript Icon"> **JavaScript (ES6+)**: Manipulação do DOM, chamadas à API e lógica de renderização.
-- <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20" alt="GitHub API Icon"> **API do GitHub**: Integração para obtenção de dados dos usuários.
+- <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20" alt="GitHub Icon"> **API do GitHub**: Integração para obtenção de dados dos usuários.
 
 
 ## Instalação e Uso
