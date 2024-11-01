@@ -39,13 +39,9 @@ A aplicação permite realizar buscas de usuários na plataforma GitHub, utiliza
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/bdancost/github_api.git
    ```
-2. **Navegue até o diretório do projeto**:
-   ```bash
-   cd seu-repositorio
-   ```
-3. **Abra o arquivo `index.html` em seu navegador** para visualizar a aplicação.
+2. **Abra o arquivo `index.html` em seu navegador** para visualizar a aplicação.
 
 Não é necessário nenhum ambiente de desenvolvimento específico ou dependências externas para rodar o projeto, basta um navegador moderno que suporte ES6.
 
